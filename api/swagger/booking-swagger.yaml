@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Swagger Petstore - OpenAPI 3.0
+  title: Swagger Booking Hotel Reservation - OpenAPI 3.0
   description: |-
     Empower your users to seamlessly manage hotel reservations through an API that provides access to an array of booking functionalities. Simplify the process of reserving accommodations by leveraging the capabilities offered within this interface.
   termsOfService: http://swagger.io/terms/
